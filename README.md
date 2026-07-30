@@ -33,9 +33,9 @@ Time and Space Complexity
 Time Complexity: O(n log n) for best, average, and worst cases. This is because the array is split log n times, and each level requires n comparisons during merging.
 
 Space Complexity: O(n) - Requires auxiliary arrays to store temporary data during the merge phase.
-
-Sample Output
-<img width="1047" height="229" alt="image" src="https://github.com/user-attachments/assets/af10f140-dece-46cd-bd0e-39840abb16f7" />
 ```
+## Sample Output
+<img width="1047" height="229" alt="image" src="https://github.com/user-attachments/assets/af10f140-dece-46cd-bd0e-39840abb16f7" />
+
 ## Author
 Kamogelo Phale
