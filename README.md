@@ -14,10 +14,11 @@ This is a standard Java console application. You can run it using NetBeans, Inte
 3. Run: `java com.mergesort.MergeSort`
 
 ## Code Structure
+```text
 src/
 └── com/
-└── mergesort/
-└── MergeSort.java
+    └── mergesort/
+        └── MergeSort.java
 .gitignore
 pom.xml
 README.md
