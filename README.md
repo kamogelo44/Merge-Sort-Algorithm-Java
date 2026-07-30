@@ -5,6 +5,14 @@ A standard console-based implementation of the Merge Sort algorithm in Java. Thi
 
 Developed as part of the Data Structures and Algorithms in Java module (ITDJA2-44) at Eduvos.
 
+Given the array:
+[4,2,6,5,3,9]
+
+## Here is the visualization of the how the merge sort algorithm will perform an ascending sorting of the above array:
+
+<img width="940" height="810" alt="image" src="https://github.com/user-attachments/assets/433305af-082a-4171-a6e2-769be9ec773f" />
+
+
 ## How to Run
 This is a standard Java console application. You can run it using NetBeans, IntelliJ, Eclipse, or the command line.
 
