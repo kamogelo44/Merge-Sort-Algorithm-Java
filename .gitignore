@@ -1,0 +1,18 @@
+
+# Compiled files
+target/
+*.class
+
+# NetBeans specific files (DO NOT upload these)
+nbproject/private/
+build/
+dist/
+nbactions.xml
+nb-configuration.xml
+
+# Maven specific files
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
