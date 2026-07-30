@@ -22,19 +22,20 @@ src/
 .gitignore
 pom.xml
 README.md
-
-## Algorithm Details
+Algorithm Details
 The implementation consists of two primary methods:
 
-1. **mergeSort()** - Recursively divides the array into left and right halves until each subarray contains a single element.
-2. **merge()** - Compares elements from the left and right subarrays and merges them back into the original array in ascending order.
+mergeSort() - Recursively divides the array into left and right halves until each subarray contains a single element.
 
-## Time and Space Complexity
-- **Time Complexity:** O(n log n) for best, average, and worst cases. This is because the array is split log n times, and each level requires n comparisons during merging.
-- **Space Complexity:** O(n) - Requires auxiliary arrays to store temporary data during the merge phase.
+merge() - Compares elements from the left and right subarrays and merges them back into the original array in ascending order.
 
-## Sample Output
+Time and Space Complexity
+Time Complexity: O(n log n) for best, average, and worst cases. This is because the array is split log n times, and each level requires n comparisons during merging.
+
+Space Complexity: O(n) - Requires auxiliary arrays to store temporary data during the merge phase.
+
+Sample Output
 <img width="1047" height="229" alt="image" src="https://github.com/user-attachments/assets/af10f140-dece-46cd-bd0e-39840abb16f7" />
-
+```
 ## Author
 Kamogelo Phale
